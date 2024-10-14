@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/big_tool_generated",
+	"textures": {
+    	"layer0": "minecraft:item/diamond_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 12, 4],
+			"rotation": [60,90,0],
+			"scale": [2,2,2]
+		},
+		"thirdperson_lefthand":{
+			"rotation": [85, -191, 75],
+			"translation": [0, 0, 0],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [30,75,0],
+			"scale":[1,1,1],
+			"translation":[0,10,5]
+		},
+		"gui": {
+			"scale":[1,1,1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [30,75,0],
+			"scale":[1,1,1],
+			"translation":[0,-10,-10]
+		}
+
+
+
+	}
+}
